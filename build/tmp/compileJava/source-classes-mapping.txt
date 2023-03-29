@@ -1,0 +1,46 @@
+ca/uwaterloo/cs349/RightLowerArm.java
+ ca.uwaterloo.cs349.RightLowerArm
+ca/uwaterloo/cs349/LeftUpperLeg.java
+ ca.uwaterloo.cs349.LeftUpperLeg
+ca/uwaterloo/cs349/ScalablePart.java
+ ca.uwaterloo.cs349.ScalablePart
+ca/uwaterloo/cs349/TranslatablePart.java
+ ca.uwaterloo.cs349.TranslatablePart
+ca/uwaterloo/cs349/RightUpperLeg.java
+ ca.uwaterloo.cs349.RightUpperLeg
+ca/uwaterloo/cs349/Feet.java
+ ca.uwaterloo.cs349.Feet
+ca/uwaterloo/cs349/LeftLowerArm.java
+ ca.uwaterloo.cs349.LeftLowerArm
+ca/uwaterloo/cs349/LeftLowerLeg.java
+ ca.uwaterloo.cs349.LeftLowerLeg
+ca/uwaterloo/cs349/LeftHand.java
+ ca.uwaterloo.cs349.LeftHand
+ca/uwaterloo/cs349/Torso.java
+ ca.uwaterloo.cs349.Torso
+ca/uwaterloo/cs349/RightHand.java
+ ca.uwaterloo.cs349.RightHand
+ca/uwaterloo/cs349/RightLowerLeg.java
+ ca.uwaterloo.cs349.RightLowerLeg
+ca/uwaterloo/cs349/Head.java
+ ca.uwaterloo.cs349.Head
+ca/uwaterloo/cs349/LeftUpperArm.java
+ ca.uwaterloo.cs349.LeftUpperArm
+ca/uwaterloo/cs349/Ragdoll.java
+ ca.uwaterloo.cs349.Ragdoll
+ ca.uwaterloo.cs349.Ragdoll$1
+ ca.uwaterloo.cs349.Ragdoll$2
+ ca.uwaterloo.cs349.Ragdoll$3
+ ca.uwaterloo.cs349.Ragdoll$4
+ca/uwaterloo/cs349/LowerLeg.java
+ ca.uwaterloo.cs349.LowerLeg
+ca/uwaterloo/cs349/RightUpperArm.java
+ ca.uwaterloo.cs349.RightUpperArm
+ca/uwaterloo/cs349/LeftFeet.java
+ ca.uwaterloo.cs349.LeftFeet
+ca/uwaterloo/cs349/RotatablePart.java
+ ca.uwaterloo.cs349.RotatablePart
+ca/uwaterloo/cs349/Part.java
+ ca.uwaterloo.cs349.Part
+ca/uwaterloo/cs349/RightFeet.java
+ ca.uwaterloo.cs349.RightFeet
